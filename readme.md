@@ -1,4 +1,4 @@
-# TrafficSignsAI-Python
+# EastAsiaTrafficSignsAI-Python
 
 A full pipeline for building a custom traffic sign detection model using Wikipedia-sourced images and deploying it via ONNX for Android. Includes dataset creation, augmentation, training with YOLOv8, model conversion and quantization, and Android inference setup.
 
